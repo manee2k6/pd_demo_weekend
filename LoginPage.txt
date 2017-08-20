@@ -1,1 +1,4 @@
 This login page is constructed as part of login feature branch
+Login button is enabled
+Username and Password field is built
+Redirection rule to homepage is set.
